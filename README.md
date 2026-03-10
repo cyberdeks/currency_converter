@@ -53,10 +53,6 @@ Result:
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/currency-converter.git
-
 Install the required library:
 
 pip install requests
